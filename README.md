@@ -1,4 +1,4 @@
-# Jinyoung (Jean) Yun
+# Jinyoung (Chloe) Yun
 
 - 👋 Hi! Welcome to my GitHub
 - 👀 I’m interested in NLP, Machine Learning
